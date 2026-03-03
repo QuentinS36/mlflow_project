@@ -1,0 +1,5 @@
+mlflow==3.10
+psycopg2
+boto3
+scikit-learn
+pandas
